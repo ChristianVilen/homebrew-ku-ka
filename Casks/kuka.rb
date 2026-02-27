@@ -1,6 +1,6 @@
 cask "kuka" do
-  version "1.0.0"
-  sha256 "RUN_SHASUM_ON_YOUR_ZIP"
+  version "V1.1.4"
+  sha256 "8b779e79b699c374498600f1b8b000cc323903b1024960ba0ed6134d4d480ff3"
 
   url "https://github.com/YOUR_USER/ku-ka/releases/download/v#{version}/KuKa.zip"
   name "Ku-Ka"
