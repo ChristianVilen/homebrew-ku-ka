@@ -1,6 +1,6 @@
 cask "kuka" do
-  version "V1.1.6"
-  sha256 "92acb1d9edbc3d94b622d268b0d785560eb1a12e702a7acf3c81b1c69223ea27"
+  version "V1.1.7"
+  sha256 "5d40b158679f98719f47c07f151060d9df1bcab235bfceae689e199e4fe43701"
 
   url "https://github.com/ChristianVilen/ku-ka/releases/download/#{version}/KuKa.zip"
   name "Ku-Ka"
