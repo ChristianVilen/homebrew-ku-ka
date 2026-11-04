@@ -6,6 +6,7 @@
 
 ```bash
 brew tap ChristianVilen/mysli
+brew trust --cask christianvilen/mysli/mysli
 brew install --cask mysli
 ```
 
