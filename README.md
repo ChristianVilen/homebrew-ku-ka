@@ -1,20 +1,20 @@
-# Homebrew Tap for Ku-Ka
+# Homebrew tap for Mysli
 
-[Ku-Ka](https://github.com/YOUR_USER/ku-ka) is a lightweight macOS screenshot tool that replaces `⇧⌘4`.
+[Mysli](https://github.com/ChristianVilen/mysli) is a daily mix of Mac tools: screenshots, clipboard history, window tiling, Keep Awake and private meeting notes, in one menu bar app.
 
 ## Install
 
 ```bash
-brew tap YOUR_USER/kuka
-brew install --cask kuka
+brew tap ChristianVilen/mysli
+brew install --cask mysli
 ```
 
 ## Update
 
 ```bash
-brew upgrade --cask kuka
+brew upgrade --cask mysli
 ```
 
 ## Requires
 
-macOS Ventura or later.
+macOS 26 Tahoe or later.
